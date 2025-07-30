@@ -1,6 +1,6 @@
 # 기상청 자외선 지수 예측 모델 개발 (2022.07~2022.08)
 
-### 날씨마루 공모전 결과 : https://bd.kma.go.kr/contest/notice_view.do
+### 날씨마루 공모전 결과 : [https://bd.kma.go.kr/contest/notice_view.do](https://bd.kma.go.kr/contest/notice_view.do)
 
 ## 📌 맡은 역할
 - EDA 및 데이터 전처리
